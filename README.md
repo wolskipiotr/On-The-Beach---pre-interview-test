@@ -8,8 +8,6 @@ To deploy:
 2. In UI project, update web.config, payrollEntities connection string to point at the correct database server
 3. Deploy the UI project to IIS (this can be done via web publish). Alternatively, for evaluation purposes - you can use Visual Studio build in IIS (just press F5).
 
-I did not want to put this on my GitHub account because I am still a repo admin at my old company and I don't really want to use it for private purposes. I did not want to set another account. 
-
 Last thing, task one was a request for some SQL - there is not much of that when using an ORM, to make up for that - here is the SQL:
 
 SELECT 
